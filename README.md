@@ -1,6 +1,5 @@
 <div align="center">
 
-### 🌿 Commit Garden
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
