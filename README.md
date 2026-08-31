@@ -1,6 +1,6 @@
 ## Learning
 
-[![My Skills](https://skillicons.dev/icons?i=js,nextjs,react,tailwind,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind)](https://skillicons.dev)
 
 ## Contribution
 
