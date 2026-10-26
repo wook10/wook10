@@ -1,6 +1,6 @@
 ## 🛠️ Open Source Contributions
 
-| Project & PR | Type | Contribution Summary | Status |
-| :--- | :---: | :--- | :---: |
-| **[facebook / react-native-website](https://github.com/react/react-native-website)**<br>`#5218` | `Docs` | Fixed duplicate word typo ("the the" → "the") in Fabric Native Commands guide. | ![Merged](https://img.shields.io/badge/PR-Merged-8A2BE2?style=flat-square&logo=github) |
-| **[inryeok-office / spring-config-contract](https://github.com/inryeok-office/spring-config-contract)**<br>`#81` | `Feature` | Added `@Scheduled` placeholder scanning (`cron`, `fixedDelayString`, etc.) in `ValueAnnotationScanner.kt` to fix startup crashes and `UNUSED` false reports ([#80](https://github.com/inryeok-office/spring-config-contract/issues/80)). | ![Merged](https://img.shields.io/badge/PR-Merged-8A2BE2?style=flat-square&logo=github) |
+| Project & PR | Type | Contribution Summary |
+| :--- | :---: | :--- |
+| **[facebook / react-native-website](https://github.com/react/react-native-website)**<br>`#5218` | `Docs` | Fixed duplicate word typo ("the the" → "the") in Fabric Native Commands guide. |
+| **[inryeok-office / spring-config-contract](https://github.com/inryeok-office/spring-config-contract)**<br>`#81` | `Feature` | Added `@Scheduled` placeholder scanning (`cron`, `fixedDelayString`, etc.) in `ValueAnnotationScanner.kt` to fix startup crashes and `UNUSED` false reports ([#80](https://github.com/inryeok-office/spring-config-contract/issues/80)). |
