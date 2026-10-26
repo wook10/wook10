@@ -1,3 +1,10 @@
+# Frontend Developer
+
+Hi, I'm Minwook Kim, a Frontend Developer studying at Gwangju Software Meister High School.
+I enjoy designing user-friendly interfaces, writing clean and readable code, and actively contributing to open-source projects.
+
+---
+
 ## 🛠️ Open Source Contributions
 
 | Project & PR | Type | Contribution Summary |
