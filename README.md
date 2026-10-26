@@ -7,6 +7,6 @@ I enjoy designing user-friendly interfaces, writing clean and readable code, and
 
 ### Open Source Contributions
 
-- Fix duplicate word in Fabric native commands doc- #5218
-- feat(spring): discover placeholders in @Scheduled attributes- #81
+- [Fix duplicate word in Fabric native commands doc- #5218](https://github.com/react/react-native-website/pull/5218)
+- [feat(spring): discover placeholders in @Scheduled attributes- #81](https://github.com/inryeok-office/spring-config-contract/pull/81)
 
