@@ -5,6 +5,8 @@ I enjoy designing user-friendly interfaces, writing clean and readable code, and
 
 ---
 
-## Open Source Contributions
+### Open Source Contributions
 
 - Fix duplicate word in Fabric native commands doc- #5218
+- feat(spring): discover placeholders in @Scheduled attributes- #81
+
